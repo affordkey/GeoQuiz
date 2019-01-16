@@ -727,6 +727,7 @@ id message
 id middle
 id multiply
 id never
+id next_button
 id none
 id normal
 id notification_background
@@ -738,6 +739,7 @@ id parentPanel
 id percent
 id progress_circular
 id progress_horizontal
+id question_text_view
 id radio
 id right
 id right_icon
@@ -882,7 +884,13 @@ string app_name
 string correct_toast
 string false_button
 string incorrect_toast
-string question_text
+string next_button
+string question_africa
+string question_americas
+string question_asia
+string question_australia
+string question_mideast
+string question_oceans
 string search_menu_title
 string status_bar_notification_info_overflow
 string true_button
