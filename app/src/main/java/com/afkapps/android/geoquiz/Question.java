@@ -4,6 +4,16 @@ public class Question {
     private int mTextResId;
     private boolean mAnswerTrue;
 
+    public boolean isAlrearyAnswered() {
+        return mAlrearyAnswered;
+    }
+
+    public void setAlrearyAnswered(boolean pAlrearyAnswered) {
+        mAlrearyAnswered = pAlrearyAnswered;
+    }
+
+    private boolean mAlrearyAnswered;
+
     public int getTextResId() {
         return mTextResId;
     }
